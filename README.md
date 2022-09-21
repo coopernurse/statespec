@@ -18,7 +18,8 @@ choosing commands in the spec to run.
 
 ### Real World API
 
-[Real World](https://github.com/gothinkster/realworld) is a project that defines an OpenAPI specification 
+[Real World](https://github.com/gothinkster/realworld) is a project that defines an 
+[OpenAPI specification](https://realworld-docs.netlify.app/docs/specs/backend-specs/introduction/) 
 for a fictional web service. Various people have written UI clients against this spec and backend 
 implementations of the spec.
 
