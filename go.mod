@@ -1,4 +1,4 @@
-module stateful-check-go
+module github.com/coopernurse/statespec
 
 go 1.19
 
