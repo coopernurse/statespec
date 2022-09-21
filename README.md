@@ -2,6 +2,10 @@
 
 Stateful generative testing for Go
 
+## Requirements
+
+`statespec` uses Go 1.18 generics and will not work with older Go versions.
+
 ## Overview
 
 This package provides a way to test a system via a set of properties (called `Commands`) that 
