@@ -25,7 +25,9 @@ We can use statespec to test a Real World backend.
 #
 # Clone a Go implementation - not affiliated with this project
 git clone https://github.com/xesina/golang-echo-realworld-example-app.git
+
 # Start the server - this runs on localhost:8585 and will write data to a file using sqlite3
+cd golang-echo-realworld-example-app
 go run main.go
 ```
 
